@@ -1,4 +1,4 @@
-# Prototype XMOS firware
+# Prototype XMOS XU316 Firmware
 
 ## Channel routing
 
