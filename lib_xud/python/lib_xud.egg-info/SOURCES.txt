@@ -1,0 +1,6 @@
+setup.py
+lib_xud.egg-info/PKG-INFO
+lib_xud.egg-info/SOURCES.txt
+lib_xud.egg-info/dependency_links.txt
+lib_xud.egg-info/requires.txt
+lib_xud.egg-info/top_level.txt

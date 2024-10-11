@@ -1,0 +1,6 @@
+setup.py
+lib_i2c.egg-info/PKG-INFO
+lib_i2c.egg-info/SOURCES.txt
+lib_i2c.egg-info/dependency_links.txt
+lib_i2c.egg-info/requires.txt
+lib_i2c.egg-info/top_level.txt

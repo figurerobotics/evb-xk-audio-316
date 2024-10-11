@@ -1,0 +1,3 @@
+black~=21.5b1
+pytest-xdist~=2.3
+pytest~=6.2
